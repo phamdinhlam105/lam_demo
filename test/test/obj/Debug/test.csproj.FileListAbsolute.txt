@@ -1,0 +1,7 @@
+E:\phamdinhlam\lam_demo\test\test\bin\Debug\test.exe.config
+E:\phamdinhlam\lam_demo\test\test\bin\Debug\test.exe
+E:\phamdinhlam\lam_demo\test\test\bin\Debug\test.pdb
+E:\phamdinhlam\lam_demo\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+E:\phamdinhlam\lam_demo\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\phamdinhlam\lam_demo\test\test\obj\Debug\test.exe
+E:\phamdinhlam\lam_demo\test\test\obj\Debug\test.pdb
