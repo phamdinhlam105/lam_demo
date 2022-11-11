@@ -10,7 +10,11 @@ namespace test
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello World, this is test file");
+            int a = 0;
+            System.Console.WriteLine("Hello World, this is test file, give a number");
+            a = Console.Read();
+            Console.WriteLine(a.ToString());
+        
         }
     }
 }
